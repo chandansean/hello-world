@@ -1,2 +1,5 @@
 # hello-world
-just trying
+just trying 
+
+Hii... friends
+I'm Chandan ,I'd like to learn c and python
